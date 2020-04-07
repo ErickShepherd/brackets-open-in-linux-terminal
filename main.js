@@ -87,7 +87,7 @@ define(function (require, exports, module) {
     CommandManager.register("Open in Terminal", COMMAND_ID, openInTerm);
     CommandManager.register("Set Terminal", DIALOG_ID, openPrefDialog);
     
-    KeyBindingManager.addBinding(COMMAND_ID, 'Ctrl-Shift-T');
+    KeyBindingManager.addBinding(COMMAND_ID, 'Alt-T');
     
     var menu1 = Menus.getContextMenu(Menus.ContextMenuIds.PROJECT_MENU);
     menu1.addMenuItem(COMMAND_ID);
