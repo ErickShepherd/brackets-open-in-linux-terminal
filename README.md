@@ -40,4 +40,4 @@ Click the terminal icon in the extensions toolbar
 
 OR
 
-Use the keyboard shortcut Ctrl-Shift-T
+Use the keyboard shortcut Alt-T
