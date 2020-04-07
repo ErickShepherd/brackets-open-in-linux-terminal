@@ -11,7 +11,7 @@ Linux: xfce4-terminal, konsole, gnome-terminal, lxterminal and terminator
 
 OSX: Terminal and iTerm
 
-Windows: cmd, powershell and ConEmu
+Windows: cmd, powershell, ConEmu, and cmder
 
 
 ## Install
@@ -37,3 +37,7 @@ OR
 Click the terminal icon in the extensions toolbar
 
 ![Open](images/ext.png)
+
+OR
+
+Use the keyboard shortcut Ctrl-Shift-T
