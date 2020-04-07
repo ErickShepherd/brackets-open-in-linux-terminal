@@ -1,6 +1,3 @@
-# I have switched to Atom. This extension will not be worked on by me any further. If someone wants to take over development, I'll be glad to transfer the repo. Thanks!!
-
-
 Open in terminal
 ================
 

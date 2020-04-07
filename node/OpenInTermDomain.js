@@ -19,7 +19,8 @@
             "cmd": 'start "CMD" /D "' + path + '"',
             "powershell": 'start "Powershell" powershell -noexit -command "Set-Location \'' + path + '\'',
             "ConEmu(x64)": "start \"ConEmu\" \"C:/Program Files/ConEmu/ConEmu64.exe\" /Dir \"" + path + "\"",
-            "ConEmu(x86)": "start \"ConEmu\" \"C:/Program Files (x86)/ConEmu/ConEmu.exe\" /Dir \"" + path + "\""
+            "ConEmu(x86)": "start \"ConEmu\" \"C:/Program Files (x86)/ConEmu/ConEmu.exe\" /Dir \"" + path + "\"",
+            "cmder": "start Cmder /start \"" + path + "\""
         };
 
         console.log('In cmdStartTerm, command: "' + commandMap[term]);
