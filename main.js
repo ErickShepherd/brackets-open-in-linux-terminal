@@ -88,7 +88,7 @@ define(function (require, exports, module) {
 
     var menu1 = Menus.getContextMenu(Menus.ContextMenuIds.PROJECT_MENU);
     menu1.addMenuItem(COMMAND_ID);
-    var menu2 = Menus.getContextMenu(Menus.ContextMenuIds.WORKING_SET_MENU);
+    var menu2 = Menus.getContextMenu(Menus.ContextMenuIds.WORKING_SET_CONTEXT_MENU);
     menu2.addMenuItem(COMMAND_ID);
 
     var menu3 = Menus.getMenu(Menus.AppMenuBar.VIEW_MENU);
