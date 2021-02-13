@@ -41,3 +41,9 @@ Click the terminal icon in the extensions toolbar
 OR
 
 Use the keyboard shortcut Alt-T
+
+## Windows Terminal
+
+If you wish to change the default profile that Windows Terminal opens, set the defaultProfile key to the guid of your chosen profile.
+
+[Detailed Instructions](https://weblog.west-wind.com/posts/2019/Sep/03/Programmatically-Opening-Windows-Terminal-in-a-Specific-Folder)
